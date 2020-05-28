@@ -23,12 +23,15 @@ ul {
 
 .bottom-container {
   margin: 2em;
+  padding: 20px;
 }
 
 .sidebar {
   float: left;
   width: 30%;
   background-color: #303960;
+  color: #efb960;
+
 }
 
 .btn {
