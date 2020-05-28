@@ -25,6 +25,12 @@ ul {
   margin: 2em;
 }
 
+.sidebar {
+  float: left;
+  width: 30%;
+  background-color: #303960;
+}
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
