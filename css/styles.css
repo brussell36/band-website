@@ -1,8 +1,12 @@
 body {
   text-align: center;
-  background-color: #2fc4b2;
+  background-color: #efb960;
   color: #303960;
   font-family: Montserrat;
+}
+
+h1 {
+  font-size: 4em;
 }
 
 ul {
