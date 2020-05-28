@@ -5,8 +5,20 @@ body {
   font-family: Montserrat;
 }
 
+ul {
+  display: inline-block;
+}
+
 .top-container {
   margin: 1em;
+}
+
+.middle-container {
+  margin: 2em;
+}
+
+.bottom-container {
+  margin: 2em;
 }
 
 .btn {
